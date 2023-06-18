@@ -16,3 +16,12 @@ Throughout the project, I honed my skills in evaluating clustering models and un
 - Clustering algorithms, including K-Means, DBSCAN, and HDBSCAN
 - Evaluation of clustering models
 - Application of machine learning techniques to geospatial data
+
+## Screenshots
+
+![Screenshot 1](https://github.com/Sitanshuk/Clustering-Geolocation-Data-Intelligently/blob/master/snapshot%201.png)
+
+![Screenshot 2](https://github.com/Sitanshuk/Clustering-Geolocation-Data-Intelligently/blob/master/snapshot3.png)
+
+
+
